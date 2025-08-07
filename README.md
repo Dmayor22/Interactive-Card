@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://interactive-card-lovat.vercel.app/)
+- Live Site URL: [Live Demo](https://interactive-card-lovat.vercel.app/)
 
 ## My process
 
